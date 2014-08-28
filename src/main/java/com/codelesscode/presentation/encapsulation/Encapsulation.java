@@ -11,7 +11,6 @@ public class Encapsulation {
     }
     
     private void feedingTime() {
-        // monk.getMouth().feed();
-        monk.stomach.feed();
+        // Implementation goes here...
     }
 }
