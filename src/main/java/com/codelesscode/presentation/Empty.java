@@ -15,10 +15,10 @@ public class Empty {
     
     public static void main(String[] args) {
         Empty me = new Empty();
-        me.readFromCollection();
+        me.printCollectionSize();
     }
     
-    private void readFromCollection() {
+    private void printCollectionSize() {
         LOGGER.info("Collection Size is:" + dataCollection.size());
     }
 
