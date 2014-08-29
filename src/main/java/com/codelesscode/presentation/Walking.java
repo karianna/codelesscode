@@ -1,3 +1,4 @@
+package com.codelesscode.presentation;
 // This is an action (verb), not a noun
 public class Walking {
 
